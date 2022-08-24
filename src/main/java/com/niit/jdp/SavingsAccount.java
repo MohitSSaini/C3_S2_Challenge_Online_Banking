@@ -27,5 +27,9 @@ public class SavingsAccount {
         System.out.println ( "Total DebitBalance in your account : =" + accountBalance );
     }
     
+    public void creditBalance ( double accountBalance ) {
+        this.AccountBalance += accountBalance;
+        System.out.println ( "Total CreditBalance in your account :" + accountBalance );
+    }
     
 }
