@@ -19,21 +19,21 @@ public class SavingsAccount {
     }
     
     public void retrieveTheAccountBalance ( ) {
-        System.out.println ( "Total AccountBalance in your account : =" + AccountBalance );
+        System.out.println ( "Total AccountBalance in your account :=" + AccountBalance );
     }
     
     public void debitCash ( double accountBalance ) {
         this.AccountBalance -= accountBalance;
-        System.out.println ( "Debit Balance in your account : =" + accountBalance );
+        System.out.println ( "Debit Balance in your account :=" + accountBalance );
         double balance = AccountBalance - accountBalance;
-        System.out.println ( "total balance after debit= " + balance );
+        System.out.println ( "Total balance after debit :=" + balance );
     }
     
     public void creditBalance ( double accountBalance ) {
         this.AccountBalance += accountBalance;
-        System.out.println ( "CreditBalance in your account :" + accountBalance );
+        System.out.println ( "CreditBalance in your account :=" + accountBalance );
         double balance = AccountBalance + accountBalance;
-        System.out.println ( "total balance after credit = " + balance );
+        System.out.println ( "Total balance after credit := " + balance );
     }
     
 }
