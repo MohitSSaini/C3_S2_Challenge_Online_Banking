@@ -7,6 +7,11 @@ package com.niit.jdp;
 
 public class SavingsAccountImpl {
     public static void main ( String[] args ) {
-//        SavingsAccount savingsAccount= new SavingsAccount (  );
+        SavingsAccount savingsAccount = new SavingsAccount ( );
+    
+        savingsAccount.retrieveTheAccountBalance ( );
+        savingsAccount.debitCash ( 5000.0 );
+        savingsAccount.creditBalance ( 10000 );
+    
     }
 }
