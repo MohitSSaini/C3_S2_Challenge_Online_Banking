@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79bbbdc7-577f-40c8-b521-aa54962bec0f" name="Changes" comment="declare a Constructor in SavingsAccount class">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79bbbdc7-577f-40c8-b521-aa54962bec0f" name="Changes" comment="declare a method in retrieveTheAccountBalance in SavingsAccount class">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/savings_account.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/savings_account.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661360453722</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="declare a method in retrieveTheAccountBalance in SavingsAccount class">
+      <created>1661361192612</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661361192612</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +153,8 @@
     <MESSAGE value="Recreate a SavingsAccountImpl main file class" />
     <MESSAGE value="declare a attributes in SavingsAccount class" />
     <MESSAGE value="declare a Constructor in SavingsAccount class" />
-    <option name="LAST_COMMIT_MESSAGE" value="declare a Constructor in SavingsAccount class" />
+    <MESSAGE value="declare a method in retrieveTheAccountBalance in SavingsAccount class" />
+    <option name="LAST_COMMIT_MESSAGE" value="declare a method in retrieveTheAccountBalance in SavingsAccount class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

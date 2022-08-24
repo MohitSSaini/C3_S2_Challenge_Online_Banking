@@ -18,7 +18,8 @@ public class SavingsAccount {
         AccountStatus = "Active";
     }
     
-    public void RetrieveTheAccountBalance ( ) {
-        System.out.println ( "AccountBalance = " + AccountBalance );
+    public void retrieveTheAccountBalance ( ) {
+        System.out.println ( "Total AccountBalance in your account : =" + AccountBalance );
     }
+    
 }
