@@ -22,4 +22,10 @@ public class SavingsAccount {
         System.out.println ( "Total AccountBalance in your account : =" + AccountBalance );
     }
     
+    public void debitCash ( double accountBalance ) {
+        this.AccountBalance -= accountBalance;
+        System.out.println ( "Total DebitBalance in your account : =" + accountBalance );
+    }
+    
+    
 }
