@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79bbbdc7-577f-40c8-b521-aa54962bec0f" name="Changes" comment="Recreate a SavingsAccountImpl main file class">
+    <list default="true" id="79bbbdc7-577f-40c8-b521-aa54962bec0f" name="Changes" comment="declare a Constructor in SavingsAccount class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccountImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/SavingsAccountImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/savings_account.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/savings_account.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -110,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661343108973</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="declare a attributes in SavingsAccount class">
+      <created>1661360398075</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661360398075</updated>
+    </task>
+    <task id="LOCAL-00010" summary="declare a Constructor in SavingsAccount class">
+      <created>1661360453722</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661360453722</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +146,9 @@
     <MESSAGE value="Create a  txt file savings_account.txt" />
     <MESSAGE value="Recreate a SavingsAccount main file class" />
     <MESSAGE value="Recreate a SavingsAccountImpl main file class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recreate a SavingsAccountImpl main file class" />
+    <MESSAGE value="declare a attributes in SavingsAccount class" />
+    <MESSAGE value="declare a Constructor in SavingsAccount class" />
+    <option name="LAST_COMMIT_MESSAGE" value="declare a Constructor in SavingsAccount class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

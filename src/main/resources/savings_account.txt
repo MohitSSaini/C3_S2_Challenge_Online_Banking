@@ -7,7 +7,6 @@
 
 
 // Behaviours
-1. WithDraw Cash
-2. Credit Cash
-3. Handle Transfers
-4. Check balance
+1. Retrieve the account balance
+2. Debit Cash
+3. Credit balance
