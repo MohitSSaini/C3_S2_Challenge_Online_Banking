@@ -6,4 +6,10 @@
 package com.niit.jdp;
 
 public class SavingsAccount {
+    long AccountNumber;
+    String AccountHolderName;
+    double AccountBalance;
+    String AccountStatus;
+    
+    
 }

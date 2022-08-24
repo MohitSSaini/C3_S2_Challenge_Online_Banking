@@ -6,4 +6,7 @@
 package com.niit.jdp;
 
 public class SavingsAccountImpl {
+    public static void main ( String[] args ) {
+//        SavingsAccount savingsAccount= new SavingsAccount (  );
+    }
 }

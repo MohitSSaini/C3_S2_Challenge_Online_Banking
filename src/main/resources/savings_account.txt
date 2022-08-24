@@ -1,6 +1,13 @@
-//Attributes
+// Attributes
+1. Account number
+2. Account holder's name
+3. Account Balance
+4. Account's Status
 
 
 
-//Behavior
-
+// Behaviours
+1. WithDraw Cash
+2. Credit Cash
+3. Handle Transfers
+4. Check balance
