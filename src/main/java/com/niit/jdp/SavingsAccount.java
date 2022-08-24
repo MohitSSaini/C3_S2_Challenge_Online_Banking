@@ -11,5 +11,10 @@ public class SavingsAccount {
     double AccountBalance;
     String AccountStatus;
     
-    
+    public SavingsAccount ( ) {
+        AccountNumber = 100150975026L;
+        AccountHolderName = "Mohit saini";
+        AccountBalance = 157003.00;
+        AccountStatus = "Active";
+    }
 }
