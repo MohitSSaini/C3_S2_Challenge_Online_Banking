@@ -10,8 +10,8 @@ public class SavingsAccountImpl {
         SavingsAccount savingsAccount = new SavingsAccount ( );
     
         savingsAccount.retrieveTheAccountBalance ( );
-        savingsAccount.debitCash ( 5000.0 );
-        savingsAccount.creditBalance ( 10000 );
+        savingsAccount.debitCash ( 50000.0 );
+        savingsAccount.creditBalance ( 12034.50 );
     
     }
 }

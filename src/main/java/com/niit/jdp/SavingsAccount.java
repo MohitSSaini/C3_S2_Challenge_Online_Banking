@@ -22,18 +22,16 @@ public class SavingsAccount {
         System.out.println ( "Total AccountBalance in your account :=" + AccountBalance );
     }
     
-    public void debitCash ( double accountBalance ) {
-        this.AccountBalance -= accountBalance;
-        System.out.println ( "Debit Balance in your account :=" + accountBalance );
-        double balance = AccountBalance - accountBalance;
-        System.out.println ( "Total balance after debit :=" + balance );
+    public void debitCash ( double debitBalance ) {
+        this.AccountBalance -= debitBalance;
+        System.out.println ( "Debit Balance in your account :=" + debitBalance );
+        System.out.println ( "Total balance after debit :=" + AccountBalance );
     }
     
     public void creditBalance ( double accountBalance ) {
         this.AccountBalance += accountBalance;
         System.out.println ( "CreditBalance in your account :=" + accountBalance );
-        double balance = AccountBalance + accountBalance;
-        System.out.println ( "Total balance after credit := " + balance );
+        System.out.println ( "Total balance after credit := " + AccountBalance );
     }
     
 }
